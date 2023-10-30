@@ -1,6 +1,6 @@
 # Bus_Reservation_system
-Final Mini Project of PCL course (Sem-1)                                                                                                                                                                                                                                                                                                                                                                                                         
-Algorithm: Bus Ticket Booking System
+**Final Mini Project of PCL course (Sem-1)**                                                                                                                                                                                                                                                                                                                                                                                                         
+**Algorithm: Bus Ticket Booking System**
 
 Step 1: Initialize variables
     - Create a structure to store customer information, e.g., struct customer { ... }
